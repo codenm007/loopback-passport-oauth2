@@ -84,7 +84,7 @@
     "@types/express": "^4.17.6",
     "@types/lodash": "^4.14.153",
     "@types/node": "^10.17.24",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "eslint": "^7.1.0",
     "lodash": "^4.17.15",
     "typescript": "~3.9.3"
